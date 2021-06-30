@@ -8,4 +8,4 @@ inct++;
 
 descr--;
 
-console.log(inct, descr)
+console.log(inct, descr);
